@@ -1,0 +1,15 @@
+2020-12-07 20:01:27,065|192.168.20.176|cloud-gateway|CLOUD_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-07 20:01:27,088|192.168.20.176|cloud-gateway.yaml|CLOUD_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-07 20:01:27,121|192.168.20.176|cloud-gateway-dev.yaml|CLOUD_GROUP|null|unknown|1607051571319|pull|ok|290915802|127.0.0.1
+2020-12-07 20:01:41,398|192.168.20.176|cloud-order|CLOUD_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-07 20:01:41,406|192.168.20.176|cloud-order.yaml|CLOUD_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-07 20:01:41,411|192.168.20.176|cloud-order-dev.yaml|CLOUD_GROUP|null|unknown|1607333520640|pull|ok|8980771|127.0.0.1
+2020-12-07 20:03:55,046|192.168.20.176|cloud-user|CLOUD_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-07 20:03:55,053|192.168.20.176|cloud-user.yaml|CLOUD_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-07 20:03:55,057|192.168.20.176|cloud-user-dev.yaml|CLOUD_GROUP|null|unknown|1607051571319|pull|ok|291063738|127.0.0.1
+2020-12-07 20:10:18,061|192.168.20.176|cloud-user|CLOUD_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-07 20:10:18,068|192.168.20.176|cloud-user.yaml|CLOUD_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-07 20:10:18,071|192.168.20.176|cloud-user-dev.yaml|CLOUD_GROUP|null|unknown|1607051571319|pull|ok|291446752|127.0.0.1
+2020-12-07 20:11:32,548|192.168.20.176|cloud-user|CLOUD_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-07 20:11:32,555|192.168.20.176|cloud-user.yaml|CLOUD_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2020-12-07 20:11:32,558|192.168.20.176|cloud-user-dev.yaml|CLOUD_GROUP|null|unknown|1607051571319|pull|ok|291521239|127.0.0.1

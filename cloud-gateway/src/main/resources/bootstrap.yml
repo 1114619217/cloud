@@ -1,0 +1,17 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: cloud-gateway
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        group: CLOUD_GROUP
+      config:
+        file-extension: yaml
+        server-addr: 127.0.0.1:8848
+        group: CLOUD_GROUP

@@ -1,0 +1,6 @@
+2020-12-07 20:01:19,760 INFO [dump-all-ok] cloud-user-dev.yaml+CLOUD_GROUP, 1607051571319, length=1588, md5=122867c4253b07f5ba3ab0b2533ff850
+
+2020-12-07 20:01:19,762 INFO [dump-all-ok] cloud-order-dev.yaml+CLOUD_GROUP, 1607333520640, length=1804, md5=894f1497a40fd31030276dad82159999
+
+2020-12-07 20:01:19,764 INFO [dump-all-ok] cloud-gateway-dev.yaml+CLOUD_GROUP, 1607051571319, length=1425, md5=850b3b5a240e48412e2a31a427c6449c
+
