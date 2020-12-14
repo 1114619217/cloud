@@ -1,6 +1,6 @@
 package com.cloud.order;
 
-import com.cloud.order.config.FeignConfig;
+import com.cloud.common.config.FeignConfig;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
